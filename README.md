@@ -78,12 +78,6 @@ image-encryption-system/
 
 ## 🚀 Installation & Setup
 
-### 1️⃣ Clone Repository
-
-`
-git clone https://github.com/yourusername/image-encryption-system.git
-cd image-encryption-system
-```
 
 ### 2️⃣ Install Dependencies
 
@@ -155,5 +149,5 @@ This system can be used in:
 * Cryptography concepts from academic coursework
 * Python documentation and open-source libraries
 
--
+
 
