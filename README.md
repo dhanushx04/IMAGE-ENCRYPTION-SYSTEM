@@ -40,7 +40,7 @@ This project also integrates **user authentication** and a **Flask-based server*
 
 ## 🏗️ Project Structure
 
-```
+
 image-encryption-system/
 │
 ├── auth.py        # Authentication system (SQLite + hashing)
@@ -54,9 +54,7 @@ image-encryption-system/
 ├── README.md
 └── sample/
     └── input.jpg
-```
 
----
 
 ## 🛠️ Technologies Used
 
@@ -86,30 +84,28 @@ image-encryption-system/
 
 ### 2️⃣ Install Dependencies
 
-```
+
 pip install -r requirements.txt
-```
+
 
 ### 3️⃣ Run the Server
 
-```
+
 python server.py
-```
+
 
 ### 4️⃣ Run the Client Application
-```
+
 python main.py
 
 
 ## 📦 Requirements
 
-```
+
 flask
 pycryptodome
 requests
-```
 
----
 
 ## 🔐 Security Features
 
